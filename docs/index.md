@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Tutorial
 
 ## Exploratory analysis of octet-binary compounds
