@@ -2,3 +2,7 @@ site_name: IMSI 2024
 
 theme:
   name: material
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
