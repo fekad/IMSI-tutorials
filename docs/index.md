@@ -14,6 +14,8 @@ Exploratory analyses make use of unsupervised learning techniques to extract inf
 
 [Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/exploratory_analysis.ipynb){ .md-button .md-button--primary }
 
+---
+
 
 ## Symbolic regression via compressed sensing: a tutorial
 
@@ -22,6 +24,8 @@ Exploratory analyses make use of unsupervised learning techniques to extract inf
 In this tutorial we will show how to find descriptive parameters to predict materials properties using symbolic regrression combined with compressed sensing tools. The relative stability of the zincblende (ZB) versus rocksalt (RS) structure of binary materials is predicted and compared against a model trained with kernel ridge regression.
 
 [Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/compressed_sensing.ipynb){ .md-button .md-button--primary }
+
+---
 
 
 ## Introduction to clustering
@@ -32,6 +36,8 @@ In this tutorial we introduce to the most popular clustering algorithms. We focu
 
 [Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb){ .md-button .md-button--primary }
 
+---
+
 
 ## Decision tree tutorial
 
@@ -40,6 +46,8 @@ In this tutorial we introduce to the most popular clustering algorithms. We focu
 In this tutorial we will introduce decision trees. We go through a toy model introducing the SKLearn API. We then discuss piece by piece the different theoretical aspects of trees. We then move to training a regression tree and classification tree on different datasets related to materials sceience. We end the tutorial by covering random forests and bagging classfifers.
 
 [Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/decision_tree.ipynb){ .md-button .md-button--primary }
+
+---
 
 
 ## Kernel Ridge Regression for Materials Property Prediction: A Tutorial Introduction
@@ -50,6 +58,8 @@ In this tutorial, we'll explore the application of kernel ridge regression to th
 
 [Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/krr4mat.ipynb){ .md-button .md-button--primary }
 
+---
+
 
 ## Querying the Archive and performing Artificial Intelligence modeling
 
@@ -58,6 +68,8 @@ In this tutorial, we'll explore the application of kernel ridge regression to th
 In this tutorial, we demonstrate how to query the NOMAD Archive from the NOMAD Analytics toolkit. We then show examples of machine learning analysis performed on the retrieved data set.
 
 [Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/query_nomad_archive.ipynb){ .md-button .md-button--primary }
+
+---
 
 
 ## Electronic density-of-states similarity search
