@@ -9,6 +9,24 @@ In this tutorial we introduce to the most popular clustering algorithms. We focu
 [Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb){ .md-button .md-button--primary }
 
 
+## Introduction to clustering
+
+__Authors: Luigi Sbailo, Luca M. Ghiringhelli__
+
+In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
+
+[Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb){ .md-button .md-button--primary }
+
+
+## Introduction to clustering
+
+__Authors: Luigi Sbailo, Luca M. Ghiringhelli__
+
+In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
+
+[Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb){ .md-button .md-button--primary }
+
+
 
 <div class="grid cards" markdown>
 
@@ -21,30 +39,33 @@ In this tutorial we introduce to the most popular clustering algorithms. We focu
     In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
 
     [:fontawesome-solid-paper-plane: Launch](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb)
-
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Made to measure__
+-   :material-clock-fast:{ .lg .middle } __Introduction to clustering__
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    __Authors: Luigi Sbailo, Luca M. Ghiringhelli__
 
-    [:octicons-arrow-right-24: Customization](#)
+    In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+    [:fontawesome-solid-paper-plane: Launch](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb)
+-   :material-clock-fast:{ .lg .middle } __Introduction to clustering__
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    __Authors: Luigi Sbailo, Luca M. Ghiringhelli__
 
-    [:octicons-arrow-right-24: License](#)
+    In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
+
+    [:fontawesome-solid-paper-plane: Launch](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb)
+-   :material-clock-fast:{ .lg .middle } __Introduction to clustering__
+
+    ---
+
+    __Authors: Luigi Sbailo, Luca M. Ghiringhelli__
+
+    In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
+
+    [:fontawesome-solid-paper-plane: Launch](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb)
 
 </div>
 
