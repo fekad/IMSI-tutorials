@@ -2,27 +2,27 @@
 
 ## Introduction to clustering
 
-__Authors: Luigi Sbailo, Luca M. Ghiringhelli__
+_Authors: Luigi Sbailo, Luca M. Ghiringhelli_
 
-In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
-
-[Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb){ .md-button .md-button--primary }
-
-
-## Introduction to clustering
-
-__Authors: Luigi Sbailo, Luca M. Ghiringhelli__
-
-In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
+In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity.
 
 [Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb){ .md-button .md-button--primary }
 
 
 ## Introduction to clustering
 
-__Authors: Luigi Sbailo, Luca M. Ghiringhelli__
+_Authors: Luigi Sbailo, Luca M. Ghiringhelli_
 
-In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
+In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity.
+
+[Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb){ .md-button .md-button--primary }
+
+
+## Introduction to clustering
+
+_Authors: Luigi Sbailo, Luca M. Ghiringhelli_
+
+In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity.
 
 [Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb){ .md-button .md-button--primary }
 
@@ -36,34 +36,27 @@ In this tutorial we introduce to the most popular clustering algorithms. We focu
 
     __Authors: Luigi Sbailo, Luca M. Ghiringhelli__
 
-    In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
+    In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity.
 
     [:fontawesome-solid-paper-plane: Launch](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb)
+
 -   :material-clock-fast:{ .lg .middle } __Introduction to clustering__
 
     ---
 
     __Authors: Luigi Sbailo, Luca M. Ghiringhelli__
 
-    In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
+    In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity.
 
     [:fontawesome-solid-paper-plane: Launch](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb)
+
 -   :material-clock-fast:{ .lg .middle } __Introduction to clustering__
 
     ---
 
-    __Authors: Luigi Sbailo, Luca M. Ghiringhelli__
+    _Authors: Luigi Sbailo, Luca M. Ghiringhelli_
 
-    In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
-
-    [:fontawesome-solid-paper-plane: Launch](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb)
--   :material-clock-fast:{ .lg .middle } __Introduction to clustering__
-
-    ---
-
-    __Authors: Luigi Sbailo, Luca M. Ghiringhelli__
-
-    In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity
+    In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity.
 
     [:fontawesome-solid-paper-plane: Launch](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb)
 
