@@ -1,11 +1,24 @@
-site_name: IMSI 2024
+site_name: FAIRmat tutorials - IMSI 2024
+repo_url: https://github.com/fekad/IMSI-tutorials
 
 theme:
   name: material
+  logo: assets/fairmat_logo_with_text.svg
+  favicon: images/fairmat.ico
+  palette:
+    primary: custom
+  icon:
+    repo: fontawesome/brands/github-alt
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/Gyzx3ukUw8
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - attr_list
-  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

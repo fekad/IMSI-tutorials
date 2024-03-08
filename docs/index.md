@@ -51,7 +51,7 @@ In this tutorial we will introduce decision trees. We go through a toy model int
 
 ## Kernel Ridge Regression for Materials Property Prediction: A Tutorial Introduction
 
-Authors: Marcel F. Langer
+*Authors: Marcel F. Langer*
 
 In this tutorial, we'll explore the application of kernel ridge regression to the prediction of materials properties. We will begin with a largely informal, pragmatic introduction to kernel ridge regression, including a rudimentary implementation, in order to become familiar with the basic terminology and considerations. We will then discuss representations, and re-trace the NOMAD 2018 Kaggle challenge.
 
