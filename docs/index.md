@@ -18,7 +18,7 @@ Exploratory analyses make use of unsupervised learning techniques to extract inf
 
 ## Symbolic regression via compressed sensing: a tutorial
 
-*Authors Emre Ahmetcik, Angelo Ziletti, Runhai Ouyang, Luigi Sbailò, Matthias Scheffler, Luca M. Ghiringhelli*
+*Authors: Emre Ahmetcik, Angelo Ziletti, Runhai Ouyang, Luigi Sbailò, Matthias Scheffler, Luca M. Ghiringhelli*
 
 In this tutorial we will show how to find descriptive parameters to predict materials properties using symbolic regrression combined with compressed sensing tools. The relative stability of the zincblende (ZB) versus rocksalt (RS) structure of binary materials is predicted and compared against a model trained with kernel ridge regression.
 
