@@ -1,11 +1,11 @@
-site_name: FAIRmat tutorials - IMSI 2024
-repo_url: https://github.com/fekad/IMSI-tutorials
-repo_name: fekad/IMSI-tutorials
+site_name: IMSI 2024
+repo_url: https://github.com/fekad/imsi-tutorials
+repo_name: fekad/imsi-tutorials
 
 theme:
   name: material
-  logo: assets/fairmat_logo_white.svg
-  favicon: images/fairmat.ico
+  logo: assets/nomad-infrastructure.svg
+  favicon: images/favicon.png
   palette:
     primary: custom
   icon:

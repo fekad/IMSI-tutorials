@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Tutorial
+# AI Toolkit tutorials
 
 ## Exploratory analysis of octet-binary compounds
 
