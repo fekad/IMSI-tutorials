@@ -1,6 +1,6 @@
 site_name: IMSI 2024
-repo_url: https://github.com/fekad/imsi-tutorials
-repo_name: fekad/imsi-tutorials
+repo_url: https://github.com/FAIRmat-NFDI/imsi-workshop
+repo_name: FAIRmat-NFDI/imsi-workshop
 
 theme:
   name: material
