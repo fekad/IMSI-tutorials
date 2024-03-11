@@ -31,9 +31,9 @@ In this tutorial we will show how to find descriptive parameters to predict mate
 
 *Authors: Luigi Sbailò and Luca M. Ghiringhelli*
 
-In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity.
+In this tutorial, we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms. The methods are tested on synthetic datasets of increasing complexity.
 
-[Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/clustering_tutorial.ipynb){ .md-button .md-button--primary }
+[Launch :fontawesome-solid-paper-plane:](https://nomad-lab.eu/ai-toolkit/public/user-redirect/tutorial-clustering-tutorial){ .md-button .md-button--primary }
 
 ---
 
