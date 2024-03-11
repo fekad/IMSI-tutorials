@@ -7,7 +7,7 @@ hide:
 
 ## Exploratory analysis of octet-binary compounds
 
-*Authors: Luigi Sbailò, Luca M. Ghiringhelli*
+*Authors: Luigi Sbailò and Luca M. Ghiringhelli*
 
 Exploratory analyses make use of unsupervised learning techniques to extract information from unknown datasets. In this tutorial, we make use of some of the most popular clustering and dimension reduction algorithms to analyze a dataset composed of 82 octet-binary compounds.
 
@@ -18,7 +18,7 @@ Exploratory analyses make use of unsupervised learning techniques to extract inf
 
 ## Symbolic regression via compressed sensing: a tutorial
 
-*Authors: Emre Ahmetcik, Angelo Ziletti, Runhai Ouyang, Luigi Sbailò, Matthias Scheffler, Luca M. Ghiringhelli*
+*Authors: Emre Ahmetcik, Angelo Ziletti, Runhai Ouyang, Luigi Sbailò, Matthias Scheffler and Luca M. Ghiringhelli*
 
 In this tutorial we will show how to find descriptive parameters to predict materials properties using symbolic regrression combined with compressed sensing tools. The relative stability of the zincblende (ZB) versus rocksalt (RS) structure of binary materials is predicted and compared against a model trained with kernel ridge regression.
 
@@ -29,7 +29,7 @@ In this tutorial we will show how to find descriptive parameters to predict mate
 
 ## Introduction to clustering
 
-*Authors: Luigi Sbailo, Luca M. Ghiringhelli*
+*Authors: Luigi Sbailò and Luca M. Ghiringhelli*
 
 In this tutorial we introduce to the most popular clustering algorithms. We focus on partitioning, hierarchical and density-based clustering algorithms, and methods are tested on artificial datasets of increasing complexity.
 
@@ -40,9 +40,9 @@ In this tutorial we introduce to the most popular clustering algorithms. We focu
 
 ## Decision tree tutorial
 
-*Authors: Daniel Speckhard, Andreas Leitherer, Luca M. Ghiringhelli*
+*Authors: Daniel Speckhard, Andreas Leitherer and Luca M. Ghiringhelli*
 
-In this tutorial we will introduce decision trees. We go through a toy model introducing the SKLearn API. We then discuss piece by piece the different theoretical aspects of trees. We then move to training a regression tree and classification tree on different datasets related to materials science. We end the tutorial by covering random forests and bagging classfiers.
+In this tutorial we will introduce decision trees. We go through a toy model introducing the SKLearn API. We then discuss piece by piece the different theoretical aspects of trees. We then move to training a regression tree and classification tree on different datasets related to materials science. We end the tutorial by covering random forests and bagging classifiers.
 
 [Launch :fontawesome-solid-paper-plane:](https://nomad-lab.eu/ai-toolkit/public/user-redirect/tutorial-decision-tree){ .md-button .md-button--primary }
 
@@ -62,7 +62,7 @@ In this tutorial, we'll explore the application of kernel ridge regression to th
 
 ## Querying the Archive and performing Artificial Intelligence modeling
 
-*Authors: Luigi Sbailo, Matthias Scheffler and Luca M. Ghiringhelli*
+*Authors: Luigi Sbailò, Matthias Scheffler and Luca M. Ghiringhelli*
 
 In this tutorial, we demonstrate how to query the NOMAD Archive from the NOMAD Analytics toolkit. We then show examples of machine learning analysis performed on the retrieved data set.
 
@@ -74,9 +74,18 @@ In this tutorial, we demonstrate how to query the NOMAD Archive from the NOMAD A
 
 ## Electronic density-of-states similarity search
 
-*Authors: Šimon Gabaj, Martin Kuban, Santiago Rigamonti, Claudia Draxl*
+*Authors: Šimon Gabaj, Martin Kuban, Santiago Rigamonti and Claudia Draxl*
 
 This notebook shows how to compute the similarity of materials in terms of their electronic density-of-states (DOS), from data retrieved from the NOMAD Archive.
 
 [Launch :fontawesome-solid-paper-plane:](https://nomad-lab.eu/ai-toolkit/public/user-redirect/tutorial-dos-similarity-search){ .md-button .md-button--primary }
 
+---
+
+## Introduction to convolutional neural networks
+
+*Authors: Angelo Ziletti, Andreas Leitherer and Luca M. Ghiringhelli*
+
+In this tutorial, we briefly introduce the main ideas behind convolutional neural networks, build a neural network model with Keras, and explain the classification decision process using attentive response maps.
+
+[Launch :fontawesome-solid-paper-plane:](https://nomad-lab.eu/ai-toolkit/public/user-redirect/tutorial-convolutional-nn){ .md-button .md-button--primary }
