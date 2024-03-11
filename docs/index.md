@@ -11,7 +11,7 @@ hide:
 
 Exploratory analyses make use of unsupervised learning techniques to extract information from unknown datasets. In this tutorial, we make use of some of the most popular clustering and dimension reduction algorithms to analyze a dataset composed of 82 octet-binary compounds.
 
-[Launch :fontawesome-solid-paper-plane:](https://analytics-toolkit.nomad-coe.eu/public/user-redirect/notebooks/tutorials/exploratory_analysis.ipynb){ .md-button .md-button--primary }
+[Launch :fontawesome-solid-paper-plane:](https://nomad-lab.eu/ai-toolkit/public/user-redirect/tutorial-exploratory-analysis){ .md-button .md-button--primary }
 
 ---
 
